@@ -1,6 +1,5 @@
-### Hi there 👋
-<br>
-Author - Md Kallol Mondal
+Hi there 👋
+Welcome to my Github profile.
 <!--
 **MdKallol/MdKallol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
